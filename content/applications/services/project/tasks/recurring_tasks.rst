@@ -18,7 +18,7 @@ activate :guilabel:`Recurring Tasks`, and press :guilabel:`Save`.
 Set up task recurrence
 ----------------------
 
-In an existing task, press the :guilabel:`Recurrent` button next to the :guilabel:`Planned date`.
+In an existing task, press the :guilabel:`Recurrent` button "Please add the image of the recuurent button" next to the :guilabel:`Planned date`.
 Then, configure :guilabel:`Repeat Every` field according to your needs.
 
 A new task in recurrence will be created once either of this conditions is met:
